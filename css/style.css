@@ -1,0 +1,34 @@
+body{
+    background-image:url("bg1.png");
+    background-size: cover;
+    overflow: hidden;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+}
+.custom-welcome{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.custom-food-container{
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%
+}
+
+.custom-center-photo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+h1{
+    font-weight: 500;
+    margin-top: auto 20px
+}
+p{
+    font-weight: 400;
+}
